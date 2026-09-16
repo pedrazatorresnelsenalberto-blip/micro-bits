@@ -5,5 +5,4 @@ basic.forever(function () {
         pins.digitalWritePin(DigitalPin.P8, 0)
         basic.pause(2000)
     })
-
 })
